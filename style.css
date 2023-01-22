@@ -18,6 +18,7 @@ table {
 th {
     background: lightblue;
   }
-  .flexbox{
-    flex: 50%;
+
+  .flex-container{
+    display: flex;
 }
