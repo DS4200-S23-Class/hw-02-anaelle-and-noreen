@@ -16,3 +16,6 @@ table {
 th {
     background: lightblue;
   }
+  .flexbox{
+    flex: auto;
+}
