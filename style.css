@@ -15,6 +15,12 @@ h2{
 table {
     width: 80%;
   }
+.center-table {
+margin-left: auto;
+margin-right: auto;
+}
+
+
 th {
     background: lightblue;
   }
@@ -27,7 +33,4 @@ th {
 .flex-container > div{
     color: orchid
 }
-.center-table {
-    margin-left: auto;
-    margin-right: auto;
-  }
+
