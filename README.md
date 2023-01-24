@@ -37,8 +37,7 @@ The purpose of this assignment is to practice more advanced HTML and CSS, as wel
       - Add a row of evenly spaced, alternating, circles and rectagles (you should use [SVG](https://www.w3schools.com/graphics/svg_intro.asp)'s'). The shapes can be whatever colors you choose. The circles should have 50% opacity, and the rectangles should have a border. The spacing of the shapes should be maintained as the page width changes (see the reference video). If the mouse hovers over a rectangle, it should temporarily change color. If the mouse hovers over a circle, a border should be temporarily added.        
    - Add a centered header to the bottom of your page. The header should say "Acknowledgements" in font smaller than the font used for your first header. Under this header, add a div. Inside of this div add a bulleted list of the resources you used to complete this assignment.  
 
-## Resources 
-
+## Resources
 * [HTML Page on w3schools](https://www.w3schools.com/html/default.asp). (On the left-hand side of the page there is a menu bar with links to various topics.) 
 
 * [CSS Page on w3schools](https://www.w3schools.com/css/default.asp). (On the left-hand side of the page there is a menu bar with links to various topics.) 
