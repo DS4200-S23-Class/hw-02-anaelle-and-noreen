@@ -27,3 +27,7 @@ th {
 .flex-container > div{
     color: orchid
 }
+.center-table {
+    margin-left: auto;
+    margin-right: auto;
+  }
