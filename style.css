@@ -34,8 +34,19 @@ th {
 }
 
 .flex-container > div{
-    color: orchid;
+    color: lightblue;
     text-align: left;
     width: fit-content(20em);
+}
+
+.rect:hover{
+    fill: lightblue
+}
+.rect{
+    fill:rgb(146, 97, 221);
+}
+.circle:hover{
+    stroke:lightblue;
+    stroke-width:10;
 }
 
