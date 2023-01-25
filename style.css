@@ -1,50 +1,63 @@
+/* Page zoom default setting, too zoomed in initially */
 html {zoom: 75%;
 }
+/* Setting font for page */
 body{
     font-family: Arial;
     width: 100%;
 }
 
+/* Center aligns heading */
 h1{
     text-align:center;
 }
+/* Center aligns heading */
 h2{
     text-align: center;
 }
+/* Left aligned for tags with class 'left' */
 .left{
     text-align: left;
 }
   
+/* Setting table width to not be full width */
 table {
     width: 80%;
   }
+
+  /* Center aligns for tags with class 'center-table' */
 .center-table {
 margin-left: auto;
 margin-right: auto;
 }
 
-
+/* For table header, set color to lightblue */
 th {
     background: lightblue;
   }
 
+  /* For flexcontainer tags with class 'flex-container', center justify */
 .flex-container{
     display: flex;
     justify-content: center;
 }
 
+/* For div tags within flexbox, align content and set color */
 .flex-container > div{
     color: lightblue;
     text-align: left;
     width: fit-content(20em);
 }
 
+/* For rectangles with class "rect", change color on hover */
 .rect:hover{
     fill: lightblue
 }
+/* For rectangles with class "rect", change color on hover */
 .rect{
     fill:rgb(146, 97, 221);
 }
+/* For circles with class "circle", change border on hover */
 .circle:hover{
     stroke:lightblue;
     stroke-width:10;
