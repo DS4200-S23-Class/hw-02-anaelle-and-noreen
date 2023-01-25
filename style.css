@@ -33,5 +33,6 @@ th {
 .flex-container > div{
     color: orchid;
     text-align: left;
+    width: 980px;
 }
 
